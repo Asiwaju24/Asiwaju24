@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asiwaju24
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning bootstrap
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m into backend development, Computer Vision and Web Scraping 
+- 🌱 I’m currently learning Neural Network 
+- 💞️ I’m looking to collaborate on Computer Vision Projects 
 - 📫 How to reach me: +2348106265136
 
 <!---
