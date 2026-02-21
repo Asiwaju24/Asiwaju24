@@ -1,14 +1,15 @@
 # Taslim Olaniyan (Asiwaju24)
 
-Hi — I'm Taslim Olaniyan (GitHub: @Asiwaju24). I am a third-year Computer Science & Education student from the University Of Ilorin with a long-standing background in Python dating back to secondary school. I build backend systems, work on computer vision projects, and develop polished frontends when needed.
+Hi! I'm Taslim Olaniyan. I am a third-year Computer Science & Education student from the University Of Ilorin with a long-standing background in Python dating back to secondary school. I build backend systems, work on computer vision projects, design system architecture, and develop polished frontends when needed.
 
 ---
 
 ## About Me
-- Third-year Computer Science & Education student
-- Python programmer since secondary school with experience writing clean and maintainable code
-- Focus areas: Backend development, Computer Vision, Web Scraping, and full-stack prototyping
+- Backend-focused software developer with over 3 years of experience building web applications using Python and Django.
 - Currently expanding my knowledge in Neural Networks to support my Computer Vision work
+- Strong foundation in REST API design, backend architecture, and collaborative development workflows.
+- Adept at translating business requirements into scalable server-side solutions and continuously expanding expertise in system architecture, computer vision, and data-driven applications.
+- Focus areas: Backend development, Computer Vision, Web Scraping, and full-stack prototyping
 
 ---
 
@@ -20,7 +21,7 @@ Hi — I'm Taslim Olaniyan (GitHub: @Asiwaju24). I am a third-year Computer Scie
 - React (component-driven design, hooks, state management)
 
 **Machine Learning & Computer Vision**
-- PyTorch, OpenCV (model development, training workflows, inference pipelines)
+- PyTorch, HuggingFace, Yolo, OpenCV (model development, training workflows, inference pipelines)
 
 **Web Scraping**
 - Requests, BeautifulSoup, Scrapy (extraction, data cleaning, automation)
