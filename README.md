@@ -5,7 +5,7 @@ Hi! I'm Taslim Olaniyan. I am a third-year Computer Science & Education student 
 ---
 
 ## About Me
-- Backend-focused software developer with 4 years of experience building web applications using Python and Django.
+- Backend-focused software developer with 3+ years of experience building web applications using Python and Django.
 - Currently expanding my knowledge in Neural Networks to support my Computer Vision work
 - Strong foundation in REST API design, backend architecture, and collaborative development workflows.
 - Adept at translating business requirements into scalable server-side solutions and continuously expanding expertise in system architecture, computer vision, and data-driven applications.
